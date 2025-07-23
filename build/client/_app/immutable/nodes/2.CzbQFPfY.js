@@ -1,0 +1,1 @@
+import"../chunks/DsnmJJEf.js";import"../chunks/IDANUE1u.js";import{m as e,a,o as r}from"../chunks/yAHeAIGd.js";var i=e('<h1>Welcome to hotbit infosoft</h1> <p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>',1);function n(t){var o=i();r(2),a(t,o)}export{n as component};
