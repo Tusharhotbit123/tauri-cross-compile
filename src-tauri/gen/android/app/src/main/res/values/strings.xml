@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">my-svelte-app</string>
+    <string name="main_activity_title">my-svelte-app</string>
+</resources>
